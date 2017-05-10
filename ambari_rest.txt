@@ -3,3 +3,4 @@ curl --user admin:admin  http://localhost:8080/api/v1/clusters
 curl --user admin:admin  http://localhost:8080/api/v1/clusters/sample
 curl --user admin:admin  http://localhost:8080/api/v1/clusters/sample/services/HDFS?fields=ServiceInfo/state
 
+https://github.com/apache/ambari/tree/trunk/ambari-server/docs/api
